@@ -46,8 +46,6 @@ This project focuses on **enhancing the security and performance of Flask-based 
 
 ## 🏗 High-Level Architecture
 
-![Flask API Hardening Flow](showcase_pictures/Flask_API_Hardening_Performance_Optimization.png "Flask API Hardening Flow")
-
 ```mermaid
 flowchart TD
     Client -->|HTTP Request| Nginx
